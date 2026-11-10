@@ -46,3 +46,28 @@ ambiente da brasa quando houver.
 | video-06-fatiando-carne-assada-tabua | 20 s | Fatiando carne assada na tábua, gordura dourada | apetite / reels "dá água na boca" |
 
 Mais vídeos a caminho (ver também `claude/banco-videos-mercadao.md` do projeto, lista antiga).
+
+## Fotos adicionadas em 10/11/2026
+
+| Arquivo | Conteúdo | Uso |
+|---|---|---|
+| foto-42 a foto-47 | Pacotes de espetinhos congelados (frango c/ bacon, tilápia, panceta, camarão, medalhão de frango, kafta c/ queijo) | story "leva pra casa" / carrossel de sabores |
+| foto-48 a foto-52 | Espetinhos congelados Romeu e Julieta e medalhão de provolone (bacon) | story / carrossel de sabores |
+| foto-53, foto-54, foto-67 | Peça de Denver crua, marmorizada | feed corte da semana / carrossel "da peça ao ponto" |
+| foto-65 | Bandeja de carnes temperadas com ervas | bastidor / story |
+| foto-72 | Espetinho Denver cru na mão (arte pronta 3/6) | carrossel Denver |
+| foto-55 a 60, 62, 64, 66, 68–71 | Artes prontas já postadas (sabores congelados, saiu da brasa, enquete carne x frango, chopp + espetinho, no ponto certo, espetinho de Denver, saindo da brasa) | NÃO repostar igual; usar como referência de estilo |
+| foto-61, foto-73, foto-74, foto-75 | Artes datadas (horário até 13h, feriadão 7/8 set, dia do açougueiro 9/out) | NÃO usar — datas passadas |
+
+## Vídeos adicionados (video-18 a video-53)
+
+Brutos: panceta e carne recheada fatiando (18, 19, 22), bastidor carnes temperadas (20, 46, 48), balcão
+com texto (21), maionese/acompanhamentos (23, 35, 50, 52), frangos no forno (24, 41, 43), deck/música
+ao vivo/salão cheio/clientes (25, 27, 28, 31, 33), costela (26, 29, 42), espetinhos na brasa (30, 53),
+assados no espeto giratório (44).
+Editados prontos (EDITADO no nome): 32 depoimentos/tour, 36 story carnes, 37 reels "um dia no
+Mercadão", 39 frango recheado com fala, 40 espetinho Denver, 45 assados, 49 balcão/ossobuco.
+
+**Proibidos enquanto a regra "sem preço" valer:** qualquer arquivo com COM-PRECO no nome
+(video-15, 34, 38, 47, 51). Outros editados podem ter preço em algum frame — conferir antes.
+@makinadaoficial aparece em 27/28/31: marcar o perfil se usar.
