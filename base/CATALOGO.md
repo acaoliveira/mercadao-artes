@@ -32,5 +32,17 @@ item em menos de 7 dias.
 
 ## Vídeos
 
-Pasta `base/videos/` — ver lista em `claude/banco-videos-mercadao.md` do projeto.
-Stories: 3 a 60 s, MP4/MOV, até 100 MB. Reels: 3 s a 15 min.
+Pasta `base/videos/`. Stories: 3 a 60 s, MP4/MOV, até 100 MB. Reels: 3 s a 15 min.
+Todos já em MP4 H.264. Na hora de usar: enquadrar em 1080x1920 (crop/pad), manter o áudio
+ambiente da brasa quando houver.
+
+| Arquivo | Duração | Conteúdo | Uso |
+|---|---|---|---|
+| video-01-espetinhos-hamburguer-churrasqueira | 23 s | Churrasqueira com fileira de espetinhos (frango, carne) e hambúrgueres | story espetinho / reels brasa |
+| video-02-gratinado-saindo-do-forno | 9 s | Bandeja de gratinado borbulhando saindo do forno (1080p) | story fim de semana / apetite |
+| video-03-espetinhos-na-brasa-curto | 7 s | Espetinhos variados na brasa, carvão vermelho | story espetinho rápido / abertura de reels |
+| video-04-espetinhos-frango-carne-brasa-close | 19 s | Close de espetinhos de frango e carne virando na brasa | story espetinho / reels |
+| video-05-carne-assada-farofa-agriao | 9 s | Carne assada com capa de gordura, farofa e agrião na tábua | apetite / assados |
+| video-06-fatiando-carne-assada-tabua | 20 s | Fatiando carne assada na tábua, gordura dourada | apetite / reels "dá água na boca" |
+
+Mais vídeos a caminho (ver também `claude/banco-videos-mercadao.md` do projeto, lista antiga).
