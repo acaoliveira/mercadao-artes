@@ -68,6 +68,9 @@ assados no espeto giratório (44).
 Editados prontos (EDITADO no nome): 32 depoimentos/tour, 36 story carnes, 37 reels "um dia no
 Mercadão", 39 frango recheado com fala, 40 espetinho Denver, 45 assados, 49 balcão/ossobuco.
 
-**Proibidos enquanto a regra "sem preço" valer:** qualquer arquivo com COM-PRECO no nome
-(video-15, 34, 38, 47, 51). Outros editados podem ter preço em algum frame — conferir antes.
+Versões SEM-PRECO (10/11): video-15 reels espetinho/panceta, video-38 story prontinhos/acompanhamentos,
+video-51 story acompanhamentos — trechos com preço removidos, liberados para uso.
+Removidos da base: clipes brutos de lasanha com etiqueta de preço (o preço era o assunto do vídeo).
+video-33 = cliente com espetinhos no deck (noite); video-34 = fachada e deck de dia.
+Outros editados: conferir frames antes de usar, caso apareça preço.
 @makinadaoficial aparece em 27/28/31: marcar o perfil se usar.
