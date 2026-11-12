@@ -9,3 +9,4 @@
 | 2026-11-11 | story vídeo (sem áudio) | video-53 (espetinhos brasa) | stories/2026-11-11-1930-espetinhos-brasa.mp4 | 18108500669254682 |
 | 2026-11-12 | story foto | foto-34 (dica quanto de carne) | stories/2026-11-12-11h-dica-quanto-carne.jpg | 18117003431155535 |
 | 2026-11-12 | story vídeo (sem áudio) | video-04 (espetinhos brasa close) | stories/2026-11-12-17h-espetinhos-brasa.mp4 | 17878708002585875 |
+| 2026-11-12 | reels (31 s, sem áudio) | video-03, 04, 44, 29, 06, 41, 28 | reels/2026-11-12-bora-puxar-churrasco.mp4 | 17977852296158815 |
