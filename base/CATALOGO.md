@@ -63,7 +63,7 @@ Mais vídeos a caminho (ver também `claude/banco-videos-mercadao.md` do projeto
 
 Brutos: panceta e carne recheada fatiando (18, 19, 22), bastidor carnes temperadas (20, 46, 48), balcão
 com texto (21), maionese/acompanhamentos (23, 35, 50, 52), frangos no forno (24, 41, 43), deck/música
-ao vivo/salão cheio/clientes (25, 27, 28, 31, 33), costela (26, 29, 42), espetinhos na brasa (30, 53),
+ao vivo/salão cheio/clientes (25, 27, 28, 31, 33), costela (26, 42; 29 = costelinha de porco na churrasqueira giratória, NÃO é fogo de chão), espetinhos na brasa (30, 53),
 assados no espeto giratório (44).
 Editados prontos (EDITADO no nome): 32 depoimentos/tour, 36 story carnes, 37 reels "um dia no
 Mercadão", 39 frango recheado com fala, 40 espetinho Denver, 45 assados, 49 balcão/ossobuco.
