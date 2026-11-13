@@ -11,3 +11,4 @@
 | 2026-11-12 | story vídeo (sem áudio) | video-04 (espetinhos brasa close) | stories/2026-11-12-17h-espetinhos-brasa.mp4 | 17878708002585875 |
 | 2026-11-12 | reels (31 s, sem áudio) | video-03, 04, 44, 29, 06, 41, 28 | reels/2026-11-12-bora-puxar-churrasco.mp4 | 17977852296158815 |
 | 2026-11-12 | story vídeo (sem áudio) | video-43 (frangos dourando forno) | stories/2026-11-12-1930-assados-fds.mp4 | 18119042729108947 |
+| 2026-11-13 | story foto | foto-07 (frango assado) | stories/2026-11-13-1130-encomenda-assados-sabado.jpg | manual (postado pela dona no app) |
