@@ -14,3 +14,4 @@
 | 2026-11-13 | story foto | foto-07 (frango assado) | stories/2026-11-13-1130-encomenda-assados-sabado.jpg | manual (postado pela dona no app) |
 | 2026-11-13 | story foto | foto-07 (frango assado) | stories/2026-11-13-1130-encomenda-assados-sabado.jpg | 18134335603690377 |
 | 2026-11-13 | story vídeo (com áudio) | video-30 (espetinhos brasa, 0–20 s) | stories/2026-11-13-1630-espetinho-panceta-17h.mp4 | 18348847258282006 |
+| 2026-11-13 | feed carrossel (4) — collab Austral | foto-19, 03, video-30 (frame panceta), foto-08 | feed/2026-11-13-sextou-1..4.jpg | 18649744705007442 |
