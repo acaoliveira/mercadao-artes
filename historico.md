@@ -13,3 +13,4 @@
 | 2026-11-12 | story vídeo (sem áudio) | video-43 (frangos dourando forno) | stories/2026-11-12-1930-assados-fds.mp4 | 18119042729108947 |
 | 2026-11-13 | story foto | foto-07 (frango assado) | stories/2026-11-13-1130-encomenda-assados-sabado.jpg | manual (postado pela dona no app) |
 | 2026-11-13 | story foto | foto-07 (frango assado) | stories/2026-11-13-1130-encomenda-assados-sabado.jpg | 18134335603690377 |
+| 2026-11-13 | story vídeo (com áudio) | video-30 (espetinhos brasa, 0–20 s) | stories/2026-11-13-1630-espetinho-panceta-17h.mp4 | 18348847258282006 |
