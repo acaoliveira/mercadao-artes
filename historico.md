@@ -16,3 +16,4 @@
 | 2026-11-13 | story vídeo (com áudio) | video-30 (espetinhos brasa, 0–20 s) | stories/2026-11-13-1630-espetinho-panceta-17h.mp4 | 18348847258282006 |
 | 2026-11-13 | feed carrossel (4) — collab Austral | foto-19, 03, video-30 (frame panceta), foto-08 | feed/2026-11-13-sextou-1..4.jpg | 18649744705007442 |
 | 2026-11-13 | story vídeo (áudio parcial) | video-18 + video-08 (panceta) | stories/2026-11-13-1930-panceta-happy-hour.mp4 | 18148189861597199 |
+| 2026-11-14 | story vídeo (sem áudio) | video-45 (EDITADO assados) | stories/2026-11-14-0900-assados-na-brasa-encomende.mp4 | 17924431143441350 |
