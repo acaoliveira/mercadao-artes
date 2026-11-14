@@ -17,3 +17,4 @@
 | 2026-11-13 | feed carrossel (4) — collab Austral | foto-19, 03, video-30 (frame panceta), foto-08 | feed/2026-11-13-sextou-1..4.jpg | 18649744705007442 |
 | 2026-11-13 | story vídeo (áudio parcial) | video-18 + video-08 (panceta) | stories/2026-11-13-1930-panceta-happy-hour.mp4 | 18148189861597199 |
 | 2026-11-14 | story vídeo (sem áudio) | video-45 (EDITADO assados) | stories/2026-11-14-0900-assados-na-brasa-encomende.mp4 | 17924431143441350 |
+| 2026-11-14 | story foto | foto-37 | stories/2026-11-14-1115-espetinho-panceta-porcao.jpg | 18137497804649335 |
