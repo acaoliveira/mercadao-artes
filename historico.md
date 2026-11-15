@@ -19,3 +19,4 @@
 | 2026-11-14 | story vídeo (sem áudio) | video-45 (EDITADO assados) | stories/2026-11-14-0900-assados-na-brasa-encomende.mp4 | 17924431143441350 |
 | 2026-11-14 | story foto | foto-37 | stories/2026-11-14-1115-espetinho-panceta-porcao.jpg | 18137497804649335 |
 | 2026-11-14 | story vídeo (com áudio, sem marca d'água) | video-27 | stories/2026-11-14-1700-sabado-turma-reunida.mp4 | 18015416744764454 |
+| 2026-11-15 | story vídeo (sem áudio) | video-24 (frangos no forno) | stories/2026-11-15-0845-frangos-forno-encomende.mp4 | 18642885220044211 |
