@@ -21,3 +21,4 @@
 | 2026-11-14 | story vídeo (com áudio, sem marca d'água) | video-27 | stories/2026-11-14-1700-sabado-turma-reunida.mp4 | 18015416744764454 |
 | 2026-11-15 | story vídeo (sem áudio) | video-24 (frangos no forno) | stories/2026-11-15-0845-frangos-forno-encomende.mp4 | 18642885220044211 |
 | 2026-11-15 | story foto | foto-39 (espetinho) | stories/2026-11-15-1030-espetinho-almoco-feriado.jpg | 18137110747809711 |
+| 2026-11-15 | story foto | foto-13 (carne assada) | stories/2026-11-15-1200-ainda-da-tempo-assados.jpg | 18111693971622798 |
