@@ -22,3 +22,5 @@
 | 2026-11-15 | story vídeo (sem áudio) | video-24 (frangos no forno) | stories/2026-11-15-0845-frangos-forno-encomende.mp4 | 18642885220044211 |
 | 2026-11-15 | story foto | foto-39 (espetinho) | stories/2026-11-15-1030-espetinho-almoco-feriado.jpg | 18137110747809711 |
 | 2026-11-15 | story foto | foto-13 (carne assada) | stories/2026-11-15-1200-ainda-da-tempo-assados.jpg | 18111693971622798 |
+| 2026-11-16 | feed carrossel (4) | foto-26, 02, 40 | feed/2026-11-16-ancho-1..4.jpg | 18398474305166089 |
+| 2026-11-16 | story foto | banco: Unsplash photo-1558030006 | stories/2026-11-16-1130-dica-ponto-da-carne.jpg | 17894067612653506 |
