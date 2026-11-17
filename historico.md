@@ -28,3 +28,4 @@
 | 2026-11-16 | story foto | foto-27 (espetinhos brasa) | stories/2026-11-16-1930-espetinho-segunda-noite.jpg | 18102228149430493 |
 | 2026-11-17 | story vídeo (sem áudio) | video-13 (Denver cru) | stories/2026-11-17-1130-curiosidade-denver.mp4 | 17936873454143571 |
 | 2026-11-17 | story foto | foto-17 (espetinho Denver) | stories/2026-11-17-1630-espetinho-17h.jpg | 17928403089202580 |
+| 2026-11-17 | story foto | foto-30 (espetinhos tábua) | stories/2026-11-17-1930-espetinho-terca-noite.jpg | 18113125172622496 |
