@@ -26,3 +26,4 @@
 | 2026-11-16 | story foto | banco: Unsplash photo-1558030006 | stories/2026-11-16-1130-dica-ponto-da-carne.jpg | 17894067612653506 |
 | 2026-11-16 | story vídeo (com áudio) | video-01 (0–14 s) | stories/2026-11-16-1630-espetinho-17h.mp4 | 17963022897254279 |
 | 2026-11-16 | story foto | foto-27 (espetinhos brasa) | stories/2026-11-16-1930-espetinho-segunda-noite.jpg | 18102228149430493 |
+| 2026-11-17 | story vídeo (sem áudio) | video-13 (Denver cru) | stories/2026-11-17-1130-curiosidade-denver.mp4 | 17936873454143571 |
