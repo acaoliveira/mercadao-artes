@@ -29,3 +29,5 @@
 | 2026-11-17 | story vídeo (sem áudio) | video-13 (Denver cru) | stories/2026-11-17-1130-curiosidade-denver.mp4 | 17936873454143571 |
 | 2026-11-17 | story foto | foto-17 (espetinho Denver) | stories/2026-11-17-1630-espetinho-17h.jpg | 17928403089202580 |
 | 2026-11-17 | story foto | foto-30 (espetinhos tábua) | stories/2026-11-17-1930-espetinho-terca-noite.jpg | 18113125172622496 |
+| 2026-11-18 | feed carrossel (4) | foto-05, foto-31, banco: Unsplash photo-1594041680534 + photo-1529692236671 | feed/2026-11-18-dica-sal-1..4.jpg | 18652236364019438 |
+| 2026-11-18 | story vídeo (sem áudio) | video-20 (bastidor temperados) | stories/2026-11-18-1130-bastidor-tempero.mp4 | 18154474510556164 |
