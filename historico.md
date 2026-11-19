@@ -35,3 +35,4 @@
 | 2026-11-18 | story foto | foto-42 + foto-49 (sabores congelados) | stories/2026-11-18-1930-espetinho-leva-pra-casa.jpg | 18131121484921416 |
 | 2026-11-19 | story vídeo (sem áudio) | video-41 (frangos/costela brasa) | stories/2026-11-19-1130-feriado-encomende-assados.mp4 | 17897175318436683 |
 | 2026-11-19 | story foto | foto-12 (espetinhos tábua) | stories/2026-11-19-1630-espetinho-panceta-17h.jpg | 18088345748325291 |
+| 2026-11-19 | reels (27 s, sem áudio) — collab Austral | video-53, 19, 42, 05, 23, 02 + foto-14 | reels/2026-11-19-guia-feriadao-vinho.mp4 | 18148845838597694 |
