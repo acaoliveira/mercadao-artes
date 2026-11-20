@@ -39,3 +39,4 @@
 | 2026-11-19 | story vídeo (sem áudio) | video-31 (deck, @makinadaoficial) | stories/2026-11-19-1930-vespera-feriado-turma.mp4 | 18005543405804702 |
 | 2026-11-20 | story vídeo (com áudio) | video-44 (assados espeto giratório, 6–20 s) | stories/2026-11-20-0845-assados-feriado-encomende.mp4 | 18097979672177896 |
 | 2026-11-20 | story foto | foto-03 (espetinhos carne e frango) | stories/2026-11-20-1030-espetinho-almoco-feriado.jpg | 18100003022235220 |
+| 2026-11-20 | story vídeo (com áudio) | video-43 (frangos dourando forno) | stories/2026-11-20-1200-ainda-da-tempo-1330.mp4 | 17881328094563680 |
