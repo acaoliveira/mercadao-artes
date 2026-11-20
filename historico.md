@@ -37,3 +37,5 @@
 | 2026-11-19 | story foto | foto-12 (espetinhos tábua) | stories/2026-11-19-1630-espetinho-panceta-17h.jpg | 18088345748325291 |
 | 2026-11-19 | reels (27 s, sem áudio) — collab Austral | video-53, 19, 42, 05, 23, 02 + foto-14 | reels/2026-11-19-guia-feriadao-vinho.mp4 | 18148845838597694 |
 | 2026-11-19 | story vídeo (sem áudio) | video-31 (deck, @makinadaoficial) | stories/2026-11-19-1930-vespera-feriado-turma.mp4 | 18005543405804702 |
+| 2026-11-20 | story vídeo (com áudio) | video-44 (assados espeto giratório, 6–20 s) | stories/2026-11-20-0845-assados-feriado-encomende.mp4 | 18097979672177896 |
+| 2026-11-20 | story foto | foto-03 (espetinhos carne e frango) | stories/2026-11-20-1030-espetinho-almoco-feriado.jpg | 18100003022235220 |
