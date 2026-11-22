@@ -44,3 +44,4 @@
 | 2026-11-21 | story foto | foto-19 (espetinhos tábua) | stories/2026-11-21-1115-sabado-espetinho-panceta-porcao.jpg | 18224445163344378 |
 | 2026-11-21 | story vídeo (com áudio) | video-28 (salão cheio, 0–15 s) | stories/2026-11-21-1930-noite-sabado-casa-cheia.mp4 | 18037177340672898 |
 | 2026-11-22 | story vídeo (com áudio) | video-51 (EDITADO acompanhamentos SEM-PRECO) | stories/2026-11-22-0845-acompanhamentos-encomende.mp4 | 18125191454049721 |
+| 2026-11-22 | story foto | foto-37 (espetinhos tábua) | stories/2026-11-22-1030-espetinho-almoco-domingo.jpg | 18129422995901562 |
