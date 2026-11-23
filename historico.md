@@ -46,3 +46,5 @@
 | 2026-11-22 | story vídeo (com áudio) | video-51 (EDITADO acompanhamentos SEM-PRECO) | stories/2026-11-22-0845-acompanhamentos-encomende.mp4 | 18125191454049721 |
 | 2026-11-22 | story foto | foto-37 (espetinhos tábua) | stories/2026-11-22-1030-espetinho-almoco-domingo.jpg | 18129422995901562 |
 | 2026-11-22 | story foto | foto-38 (carne assada) | stories/2026-11-22-1200-ainda-da-tempo-1330.jpg | 18004155276011292 |
+| 2026-11-23 | story foto | banco: Unsplash photo-1588168333986 | stories/2026-11-23-1130-dica-contra-a-fibra.jpg | 18106854749642526 |
+| 2026-11-23 | feed carrossel (4) | video-18 (frames panceta) | feed/2026-11-23-panceta-1..4.jpg | 17989459928940411 |
