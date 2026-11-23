@@ -48,3 +48,4 @@
 | 2026-11-22 | story foto | foto-38 (carne assada) | stories/2026-11-22-1200-ainda-da-tempo-1330.jpg | 18004155276011292 |
 | 2026-11-23 | story foto | banco: Unsplash photo-1588168333986 | stories/2026-11-23-1130-dica-contra-a-fibra.jpg | 18106854749642526 |
 | 2026-11-23 | feed carrossel (4) | video-18 (frames panceta) | feed/2026-11-23-panceta-1..4.jpg | 17989459928940411 |
+| 2026-11-23 | story foto | foto-39 (espetinho) | stories/2026-11-23-1630-espetinho-17h.jpg | 18079842140773343 |
