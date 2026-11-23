@@ -49,3 +49,4 @@
 | 2026-11-23 | story foto | banco: Unsplash photo-1588168333986 | stories/2026-11-23-1130-dica-contra-a-fibra.jpg | 18106854749642526 |
 | 2026-11-23 | feed carrossel (4) | video-18 (frames panceta) | feed/2026-11-23-panceta-1..4.jpg | 17989459928940411 |
 | 2026-11-23 | story foto | foto-39 (espetinho) | stories/2026-11-23-1630-espetinho-17h.jpg | 18079842140773343 |
+| 2026-11-23 | story vídeo (com áudio) | video-30 (0–16 s, churrasqueira cheia) | stories/2026-11-23-1930-espetinho-segunda-noite.mp4 | 18019231679974767 |
