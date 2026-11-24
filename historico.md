@@ -52,3 +52,4 @@
 | 2026-11-23 | story vídeo (com áudio) | video-30 (0–16 s, churrasqueira cheia) | stories/2026-11-23-1930-espetinho-segunda-noite.mp4 | 18019231679974767 |
 | 2026-11-24 | story foto | foto-16 (dica descansar carne) | stories/2026-11-24-1130-dica-descansar-carne.jpg | 18138034291672494 |
 | 2026-11-24 | story vídeo (com áudio) | video-01 (8–22 s, churrasqueira) | stories/2026-11-24-1630-espetinho-17h.mp4 | 18117089849168898 |
+| 2026-11-24 | story foto | foto-30 (espetinhos tábua) | stories/2026-11-24-1930-espetinho-terca-noite.jpg | 18132072377486789 |
