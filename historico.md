@@ -55,3 +55,4 @@
 | 2026-11-24 | story foto | foto-30 (espetinhos tábua) | stories/2026-11-24-1930-espetinho-terca-noite.jpg | 18132072377486789 |
 | 2026-11-25 | feed carrossel (4) | video-30 (frames tábua/brasa) | feed/2026-11-25-espetinho-em-casa-v2-1..4.jpg | 18120988495794801 |
 | 2026-11-25 | story foto | banco: Unsplash photo-1603048297172 | stories/2026-11-25-1130-dica-picanha-maminha-fraldinha.jpg | 18038042090887628 |
+| 2026-11-25 | story vídeo (sem som) | video-04 (0–9 s) | stories/2026-11-25-1630-espetinho-17h-mudo.mp4 | 18108721699989556 |
