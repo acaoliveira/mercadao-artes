@@ -1,5 +1,10 @@
 # Catálogo da base — Mercadão de Carnes
 
+> **REGRAS DA DONA (25/11/2026) — valem para todas as rotinas até ela mudar:**
+> 1. **Todos os vídeos saem SEM SOM** (stories e reels): remover o áudio com `ffmpeg -an`.
+> 2. **Imagens sempre as mais bonitas, mesmo que sejam da internet.** O feed tem que encantar. Se o material próprio não estiver à altura, use banco de imagens livre (Unsplash/Pexels) sem hesitar. Nada de produto embalado/congelado, carne crua em sacola, prato descartável, grama ou fundo bagunçado no feed. Preferir comida servida na tábua e close na brasa (ex.: frames das tábuas do video-30).
+>    Foto da internet não pode ser apresentada como foto da casa ("nossa vitrine", "casa cheia hoje", "saiu agora da nossa brasa"). Nesses casos, usar material próprio.
+
 Material bruto para stories, feed e reels. Fotos em `base/fotos/`, vídeos em `base/videos/`.
 Ao usar um item, registre em `historico.md` (data, formato, arquivo). Não repita o mesmo
 item em menos de 7 dias.
