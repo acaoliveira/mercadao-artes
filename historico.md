@@ -60,3 +60,4 @@
 | 2026-11-26 | story foto | foto-07 (frango assado) | stories/2026-11-26-1130-encomenda-frango-maionese-sabado.jpg | 17986801307901657 |
 | 2026-11-26 | story vídeo (sem som) | video-03 (espetinhos brasa) | stories/2026-11-26-1630-espetinho-panceta-17h.mp4 | 17937675147186159 |
 | 2026-11-26 | reels (23 s, sem som) — collab Austral | video-29, 08, 07 + foto-33 | reels/2026-11-26-guia-churrasco-fds-malbec.mp4 | 18005637063043216 |
+| 2026-11-26 | story vídeo (sem som) | video-33 (deck noite, 10–20 s) | stories/2026-11-26-1930-happy-hour-quinta-noite.mp4 | 18165845044504113 |
