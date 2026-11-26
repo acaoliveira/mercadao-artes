@@ -58,3 +58,4 @@
 | 2026-11-25 | story vídeo (sem som) | video-04 (0–9 s) | stories/2026-11-25-1630-espetinho-17h-mudo.mp4 | 18108721699989556 |
 | 2026-11-25 | story foto | foto-36 (espetinhos brasa) | stories/2026-11-25-1930-espetinho-quarta-noite.jpg | 18084340391447645 |
 | 2026-11-26 | story foto | foto-07 (frango assado) | stories/2026-11-26-1130-encomenda-frango-maionese-sabado.jpg | 17986801307901657 |
+| 2026-11-26 | story vídeo (sem som) | video-03 (espetinhos brasa) | stories/2026-11-26-1630-espetinho-panceta-17h.mp4 | 17937675147186159 |
