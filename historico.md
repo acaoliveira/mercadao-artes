@@ -62,3 +62,4 @@
 | 2026-11-26 | reels (23 s, sem som) — collab Austral | video-29, 08, 07 + foto-33 | reels/2026-11-26-guia-churrasco-fds-malbec.mp4 | 18005637063043216 |
 | 2026-11-26 | story vídeo (sem som) | video-33 (deck noite, 10–20 s) | stories/2026-11-26-1930-happy-hour-quinta-noite.mp4 | 18165845044504113 |
 | 2026-11-27 | story vídeo (sem som) | video-43 + video-23 (frango + maionese) | stories/2026-11-27-1130-encomenda-assados-sabado.mp4 | 18135701836766696 |
+| 2026-11-27 | story foto | foto-27 (espetinhos brasa) | stories/2026-11-27-1630-sextou-espetinho-panceta-17h.jpg | 17883848541543587 |
