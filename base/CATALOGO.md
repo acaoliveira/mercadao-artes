@@ -81,3 +81,5 @@ Removidos da base: clipes brutos de lasanha com etiqueta de preço (o preço era
 video-33 = cliente com espetinhos no deck (noite); video-34 = fachada e deck de dia.
 Outros editados: conferir frames antes de usar, caso apareça preço.
 @makinadaoficial aparece em 27/28/31: marcar o perfil se usar.
+
+ATENÇÃO (27/11, dona): o Mercadão NÃO vende "tábua de espetinho". As fotos de espetinhos na tábua (foto-12, 19, 30, 37 e frames de tábua do video-30) foram só para o lançamento. Pode usar a imagem do espetinho, mas nunca anunciar/oferecer "tábua", "monta a tábua" ou tábua como produto.
