@@ -5,6 +5,9 @@
 > 2. **Imagens sempre as mais bonitas, mesmo que sejam da internet.** O feed tem que encantar. Se o material próprio não estiver à altura, use banco de imagens livre (Unsplash/Pexels) sem hesitar. Nada de produto embalado/congelado, carne crua em sacola, prato descartável, grama ou fundo bagunçado no feed. Preferir comida servida na tábua e close na brasa (ex.: frames das tábuas do video-30).
 >    Foto da internet não pode ser apresentada como foto da casa ("nossa vitrine", "casa cheia hoje", "saiu agora da nossa brasa"). Nesses casos, usar material próprio.
 
+> 3. **SÁBADO FECHA ÀS 19H30 (dona, 28/11).** Nada de story/post no sábado à noite chamando pra casa. Último story de sábado no máximo ~16h30 ("aberto até 19h30").
+> 4. **Não repetir o mesmo tipo de story do sábado anterior** (ex.: música/roda no deck, mesma foto no mesmo horário). Conferir o sábado anterior no historico.md antes de montar.
+
 Material bruto para stories, feed e reels. Fotos em `base/fotos/`, vídeos em `base/videos/`.
 Ao usar um item, registre em `historico.md` (data, formato, arquivo). Não repita o mesmo
 item em menos de 7 dias.
