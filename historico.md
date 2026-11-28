@@ -66,3 +66,4 @@
 | 2026-11-27 | feed carrossel (3) | foto-03, foto-12, foto-15 | feed/2026-11-27-sextou-1..3.jpg | 18151179526604870 |
 | 2026-11-27 | story vídeo (sem som) | video-53 (espetinhos brasa, 0–15 s) | stories/2026-11-27-1930-sextou-happy-hour-panceta.mp4 | 18024102638731240 |
 | 2026-11-28 | story vídeo (sem som) | video-41 (assados no forno, 0–15 s) | stories/2026-11-28-0900-assados-sabado-encomende.mp4 | 18060297311807390 |
+| 2026-11-28 | story foto | foto-17 (espetinho) + foto-35 (carne assada) | stories/2026-11-28-1115-almoco-sabado-espetinho-panceta-porcao.jpg | 17904946458433877 |
